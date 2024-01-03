@@ -4,4 +4,6 @@ Some key Feature are
                 Balance check
                 Withdraw
                 Deposit
+
+      ATM PIN = 1111
                 
